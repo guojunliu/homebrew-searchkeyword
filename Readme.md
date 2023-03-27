@@ -33,7 +33,7 @@ searchkeyword UIWebView
 
 ## 扫描结果示例
 
-- 扫描到关键字
+- 扫描到关键字示例
 
 ![Alt text](Image/2.png)
 
