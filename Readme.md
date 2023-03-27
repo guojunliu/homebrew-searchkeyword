@@ -31,7 +31,7 @@ searchkeyword [keyword]
 searchkeyword UIWebView
 ```
 
-## 扫描结果
+## 扫描结果示例
 
 - 扫描到关键字
 
