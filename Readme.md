@@ -35,8 +35,8 @@ searchkeyword UIWebView
 
 - 扫描到关键字
 
-	![Alt text](Image/2.png)
+![Alt text](Image/2.png)
 
 - 未扫描到关键字
 
-	![Alt text](Image/3.png)
+![Alt text](Image/3.png)
