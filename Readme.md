@@ -24,6 +24,8 @@ Mac下扫描文件夹中所有文件是否包含关键字的工具
 
 ## 使用
 
+在要扫描的目录下运行以下命令
+
 ```
 searchkeyword [keyword]
 
@@ -31,10 +33,13 @@ searchkeyword [keyword]
 searchkeyword UIWebView
 ```
 
-### 扫描到关键字
+## 扫描结果示例
+
+- 扫描到关键字示例
 
 ![Alt text](Image/2.png)
 
-### 未扫描到关键字
+- 未扫描到关键字
 
 ![Alt text](Image/3.png)
+
