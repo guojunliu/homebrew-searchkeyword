@@ -4,9 +4,9 @@
 class Searchkeyword < Formula
   desc "关键字扫描工具"
   homepage "https://github.com/guojunliu/homebrew-searchkeyword"
-  url "https://github.com/guojunliu/homebrew-searchkeyword/raw/master/product/1.0.1/searchkeyword_1.0.1.tar.gz"
-  version "1.0.1"
-  sha256 "8552c5938a46816bf12dd0232cd0c350fdcbb40b02fe6b0a9cbff4781c453aa6"
+  url "https://github.com/guojunliu/homebrew-searchkeyword/raw/master/product/1.0.0/searchkeyword_1.0.0.tar.gz"
+  version "1.0.0"
+  sha256 "766bd788ebca17f24f79d1d219d092a8bddac00fe57a936749141a90591f0586"
   license "MIT"
 
   def install
